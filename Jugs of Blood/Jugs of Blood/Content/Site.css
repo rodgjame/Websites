@@ -22,3 +22,9 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/* Set iFrame to be the width of the container. Will be used by youtube video*/
+iframe {
+    display:block;
+    width:100%;
+}
