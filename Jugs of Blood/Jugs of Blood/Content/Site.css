@@ -28,3 +28,42 @@ iframe {
     display:block;
     width:100%;
 }
+
+.list-services {
+    float: right;
+    padding: 2px 0 0 0;
+    list-style: none;
+}
+
+.list-services li {
+    float: left;
+    padding: 0;
+}
+
+.list-services img {
+    max-width: 25%;
+}
+
+.list-services li a {
+    display: inline-block;
+}
+
+/*.list-services li a.n-1 {
+    background-position: 0 0px;
+    background: url(../Content/Images/icons/twitter.png)
+}
+
+.list-services li a.n-2 {
+    background-position: -55px 0;
+    background: url(../Content/Images/icons/facebook.png)
+}
+
+.list-services li a.n-3 {
+    background-position: -110px 0;
+    background: url(../Content/Images/icons/youtube_2.png)
+}
+
+.list-services li.last {
+    padding-right: 0px;
+
+}*/

@@ -179,6 +179,11 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\icons\facebook.png" />
+    <Content Include="Content\Images\icons\googleplus.png" />
+    <Content Include="Content\Images\icons\twitter.png" />
+    <Content Include="Content\Images\icons\youtube.png" />
+    <Content Include="Content\Images\icons\youtube_2.png" />
     <Content Include="Content\Images\logo_v3.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -212,7 +217,6 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\_UnderConstruction.cshtml" />
   </ItemGroup>
   <ItemGroup>
