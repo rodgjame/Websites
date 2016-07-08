@@ -185,6 +185,7 @@
     <Content Include="Content\Images\icons\youtube.png" />
     <Content Include="Content\Images\icons\youtube_2.png" />
     <Content Include="Content\Images\logo_v3.png" />
+    <Content Include="Content\round-about.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -218,6 +219,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\_UnderConstruction.cshtml" />
+    <Content Include="Views\Home\Gallery.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
