@@ -185,7 +185,7 @@
     <Content Include="Content\Images\icons\youtube.png" />
     <Content Include="Content\Images\icons\youtube_2.png" />
     <Content Include="Content\Images\logo_v3.png" />
-    <Content Include="Content\round-about.css" />
+    <Content Include="Content\one-page-wonder.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
