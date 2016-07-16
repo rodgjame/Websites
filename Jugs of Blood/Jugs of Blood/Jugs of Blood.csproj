@@ -179,6 +179,10 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\band\CAPTAIN_RAYZOR.png" />
+    <Content Include="Content\Images\band\DON_COCHISE.png" />
+    <Content Include="Content\Images\band\METAL_MATT.png" />
+    <Content Include="Content\Images\band\TDANNY_DESTRUCTION.png" />
     <Content Include="Content\Images\icons\facebook.png" />
     <Content Include="Content\Images\icons\googleplus.png" />
     <Content Include="Content\Images\icons\twitter.png" />
