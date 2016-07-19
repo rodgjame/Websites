@@ -3,6 +3,14 @@
     padding-bottom: 20px;
 }
 
+html, body { 
+  background: url(/Content/Images/blood_splatter_background-min.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
