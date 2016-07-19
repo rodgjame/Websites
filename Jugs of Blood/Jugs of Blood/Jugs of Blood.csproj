@@ -182,13 +182,14 @@
     <Content Include="Content\Images\band\CAPTAIN_RAYZOR.png" />
     <Content Include="Content\Images\band\DON_COCHISE.png" />
     <Content Include="Content\Images\band\METAL_MATT.png" />
-    <Content Include="Content\Images\band\TDANNY_DESTRUCTION.png" />
+    <Content Include="Content\Images\band\DANNY_DESTRUCTION.png" />
     <Content Include="Content\Images\icons\facebook.png" />
     <Content Include="Content\Images\icons\googleplus.png" />
     <Content Include="Content\Images\icons\twitter.png" />
     <Content Include="Content\Images\icons\youtube.png" />
     <Content Include="Content\Images\icons\youtube_2.png" />
     <Content Include="Content\Images\logo_v3.png" />
+    <Content Include="Content\Images\marker-text-1.gif" />
     <Content Include="Content\one-page-wonder.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -232,7 +233,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="packages.config" />
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
