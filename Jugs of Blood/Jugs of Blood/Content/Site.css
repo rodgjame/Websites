@@ -56,22 +56,16 @@ iframe {
     display: inline-block;
 }
 
-/*.list-services li a.n-1 {
-    background-position: 0 0px;
-    background: url(../Content/Images/icons/twitter.png)
+.hide-bullets {
+    list-style:none;
+    margin-left: -40px;
+    margin-top:20px;
 }
 
-.list-services li a.n-2 {
-    background-position: -55px 0;
-    background: url(../Content/Images/icons/facebook.png)
+.thumbnail {
+    padding: 0;
 }
 
-.list-services li a.n-3 {
-    background-position: -110px 0;
-    background: url(../Content/Images/icons/youtube_2.png)
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100%;
 }
-
-.list-services li.last {
-    padding-right: 0px;
-
-}*/
