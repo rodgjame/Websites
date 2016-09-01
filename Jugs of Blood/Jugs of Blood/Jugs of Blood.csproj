@@ -233,6 +233,7 @@
     <Content Include="Content\Images\logo_v3.png" />
     <Content Include="Content\Images\marker-text-1.gif" />
     <Content Include="Content\Images\posters\poster1.jpg" />
+    <Content Include="Content\Images\posters\poster2.jpg" />
     <Content Include="Content\one-page-wonder.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
